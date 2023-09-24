@@ -1,0 +1,16 @@
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\bin\Debug\net7.0-windows\uygulama6.exe
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\bin\Debug\net7.0-windows\uygulama6.deps.json
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\bin\Debug\net7.0-windows\uygulama6.runtimeconfig.json
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\bin\Debug\net7.0-windows\uygulama6.dll
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\bin\Debug\net7.0-windows\uygulama6.pdb
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.Form1.resources
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.csproj.GenerateResource.cache
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.AssemblyInfoInputs.cache
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.AssemblyInfo.cs
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.csproj.CoreCompileInputs.cache
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.dll
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\refint\uygulama6.dll
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.pdb
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\uygulama6.genruntimeconfig.cache
+C:\Users\gulsum\source\repos\uygulama6\uygulama6\obj\Debug\net7.0-windows\ref\uygulama6.dll
